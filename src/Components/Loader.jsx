@@ -7,7 +7,7 @@ export const Spinner = () => {
 
     return (
         <div className="sweet-loading">
-            <img style={{ width: 'auto', height: '150px',margin:'2em' }} src="/src/assets/car-gear_1.png" alt="img" />
+            <img style={{ width: 'auto', height: '150px',margin:'2em' }} src="/assets/car-gear_1.png" alt="img" />
             <PropagateLoader
                 color={color}
                 loading={loading}

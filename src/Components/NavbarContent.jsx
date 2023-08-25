@@ -13,7 +13,7 @@ function NavbarContent() {
       <Navbar className="shadow-light shadow-sm m-0 p-0" collapseOnSelect expand="lg">
 
         <Navbar.Brand href="/" >
-          <img className="site-logo" src="/src/assets/car-gear_2.png" alt="img" />
+          <img className="site-logo" src="/assets/car-gear_2.png" alt="img" />
           <span>CAR REPAIR </span>
         </Navbar.Brand>
 

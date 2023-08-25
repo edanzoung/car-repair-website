@@ -36,7 +36,7 @@ function HomeContent() {
                                         </div>
                                     </div>
                                     <div class="right mtop">
-                                        <img src="/src/assets/images/home.png" alt="img" />
+                                        <img src="/assets/images/home.png" alt="img" />
                                     </div>
                                 </div>
                                 <div class="item flex">
@@ -50,7 +50,7 @@ function HomeContent() {
                                         </div>
                                     </div>
                                     <div class="right mtop">
-                                        <img src="/src/assets/images/home.png" alt="img" />
+                                        <img src="/assets/images/home.png" alt="img" />
                                     </div>
                                 </div>
                                 <div class="item flex">
@@ -64,7 +64,7 @@ function HomeContent() {
                                         </div>
                                     </div>
                                     <div class="right mtop">
-                                        <img src="/src/assets/images/home.png" alt="img" />
+                                        <img src="/assets/images/home.png" alt="img" />
                                     </div>
                                 </div>
                             </OwlCarousel>
@@ -83,7 +83,7 @@ function HomeContent() {
 
                         <div className="content grid mtop">
                             <div className="box">
-                                <img src="/src/assets/images/w1.png" alt="img" />
+                                <img src="/assets/images/w1.png" alt="img" />
                                 <h3>Equipe Qualifiée </h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -92,7 +92,7 @@ function HomeContent() {
                                 </Button>
                             </div>
                             <div className="box">
-                                <img src="/src/assets/images/w2.png" alt="img" />
+                                <img src="/assets/images/w2.png" alt="img" />
                                 <h3>Materiaux De Qualité </h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -101,7 +101,7 @@ function HomeContent() {
                                 </Button>
                             </div>
                             <div className="box">
-                                <img src="/src/assets/images/w3.png" alt="img" />
+                                <img src="/assets/images/w3.png" alt="img" />
                                 <h3>Meilleur Service </h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -119,7 +119,7 @@ function HomeContent() {
 
                         <div className="content grid mtop">
                             <div className="box">
-                                <img src="/src/assets/images/s1.png" alt="img" />
+                                <img src="/assets/images/s1.png" alt="img" />
                                 <h3>Maintenance à domicile</h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -128,7 +128,7 @@ function HomeContent() {
                                 </Button>
                             </div>
                             <div className="box">
-                                <img src="/src/assets/images/s4.png" alt="img" />
+                                <img src="/assets/images/s4.png" alt="img" />
                                 <h3>Changement Jante</h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -137,7 +137,7 @@ function HomeContent() {
                                 </Button>
                             </div>
                             <div className="box">
-                                <img src="/src/assets/images/s3.png" alt="img" />
+                                <img src="/assets/images/s3.png" alt="img" />
                                 <h3>Pression Pneu</h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -146,7 +146,7 @@ function HomeContent() {
                                 </Button>
                             </div>
                             <div className="box">
-                                <img src="/src/assets/images/s2.png" alt="img" />
+                                <img src="/assets/images/s2.png" alt="img" />
                                 <h3>Changement Pneu</h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -155,7 +155,7 @@ function HomeContent() {
                                 </Button>
                             </div>
                             <div className="box">
-                                <img src="/src/assets/images/s6.png" alt="img" />
+                                <img src="/assets/images/s6.png" alt="img" />
                                 <h3>Réparation Pneu</h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -164,7 +164,7 @@ function HomeContent() {
                                 </Button>
                             </div>
                             <div className="box">
-                                <img src="/src/assets/images/s5.png" alt="img" />
+                                <img src="/assets/images/s5.png" alt="img" />
                                 <h3>Maintenance Génerale</h3>
                                 <p>Generators on the Internet tend to repeat predefined chunks as necessary</p>
                                 <Button variant="contained"
@@ -180,7 +180,7 @@ function HomeContent() {
                     <Container className="flex">
                         <div className="circle"></div>
                         <div className="left top">
-                            <img src="/src/assets/images/a.png" alt="img" />
+                            <img src="/assets/images/a.png" alt="img" />
                         </div>
                         <div className="right top">
                             <h1>A propos de nous </h1>
@@ -201,7 +201,7 @@ function HomeContent() {
                                     <div className="item flex">
                                         <div className="image">
                                             <div className="img">
-                                                <img src="/src/assets/images/c1.jpg" alt="img" />
+                                                <img src="/assets/images/c1.jpg" alt="img" />
                                             </div>
                                         </div>
                                         <div className="text">
@@ -221,7 +221,7 @@ function HomeContent() {
                                     <div className="item flex">
                                         <div className="image">
                                             <div className="img">
-                                                <img src="/src/assets/images/c2.jpg" alt="img" />
+                                                <img src="/assets/images/c2.jpg" alt="img" />
                                             </div>
                                         </div>
                                         <div className="text">
@@ -241,7 +241,7 @@ function HomeContent() {
                                     <div className="item flex">
                                         <div className="image">
                                             <div className="img">
-                                                <img src="/src/assets/images/c3.jpg" alt="img" />
+                                                <img src="/assets/images/c3.jpg" alt="img" />
                                             </div>
                                         </div>
                                         <div className="text">
@@ -279,7 +279,7 @@ function HomeContent() {
                         </div>
                         <div className="right">
                             <div className="img">
-                                <img src="/src/assets/images/contact.png" alt="img" />
+                                <img src="/assets/images/contact.png" alt="img" />
                             </div>
                         </div>
 
@@ -317,7 +317,7 @@ function HomeContent() {
 
                         <div className="soical mtop">
                             <div className="logo">
-                                <img style={{ width: "180px", height: "100px" }} src="/src/assets/car-gear_2.png" alt="img" />
+                                <img style={{ width: "180px", height: "100px" }} src="/assets/car-gear_2.png" alt="img" />
                             </div>
                             <ul>
                                 <li> <i className="fab fa-facebook-f"></i></li>

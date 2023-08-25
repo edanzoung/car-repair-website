@@ -1,0 +1,16 @@
+.sweet-loading {
+    /* Sizing */
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 2em;
+
+    /* Flexbox stuff */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* Text styles */
+    text-align: center;
+}

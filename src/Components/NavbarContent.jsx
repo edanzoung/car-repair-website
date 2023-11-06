@@ -25,32 +25,32 @@ function NavbarContent() {
           <Nav className="navbar-nav">
             <li className="nav-item">
               <Link offset={-100} smooth={true} duration={500} className="nav-link _active" to="home-top" style={{ fontFamily: "Roboto" }}>
-                &nbsp;&nbsp;Accueil&nbsp;&nbsp;
+                &nbsp;Accueil&nbsp;
               </Link>
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="why-us" style={{ fontFamily: "Roboto" }}>
-                &nbsp;&nbsp;Pourquoi Nous ?&nbsp;&nbsp;
+                &nbsp;Pourquoi Nous ?&nbsp;
               </Link>
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="our-services" style={{ fontFamily: "Roboto" }}>
-                &nbsp;&nbsp;Nos Services&nbsp;&nbsp;
+                &nbsp;Services&nbsp;
               </Link>
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="about-us" style={{ fontFamily: "Roboto" }}>
-                &nbsp;&nbsp;A Propos&nbsp;&nbsp;
+                &nbsp;A Propos&nbsp;
               </Link>
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="testimonials" style={{ fontFamily: "Roboto" }}>
-                &nbsp;&nbsp;Ce qu'ils disent de nous&nbsp;&nbsp;
+                &nbsp;Ce qu'ils disent de nous&nbsp;
               </Link>
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="contact-us" style={{ fontFamily: "Roboto" }}>
-                &nbsp;&nbsp;Nous Contactez&nbsp;&nbsp;
+                &nbsp;Contact&nbsp;
               </Link>
             </li>
           </Nav>

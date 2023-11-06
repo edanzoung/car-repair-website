@@ -25,17 +25,17 @@ function NavbarContent() {
           <Nav className="navbar-nav">
             <li className="nav-item">
               <Link offset={-100} smooth={true} duration={500} className="nav-link _active" to="home-top" style={{ fontFamily: "Roboto" }}>
-                &nbsp;Accueil&nbsp;
+                Accueil
               </Link>
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="why-us" style={{ fontFamily: "Roboto" }}>
-                &nbsp;Pourquoi Nous ?&nbsp;
+                Pourquoi Nous ?
               </Link>
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="our-services" style={{ fontFamily: "Roboto" }}>
-                &nbsp;Services&nbsp;
+                Services
               </Link>
             </li>
             <li className="nav-item">
@@ -45,12 +45,12 @@ function NavbarContent() {
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="testimonials" style={{ fontFamily: "Roboto" }}>
-                &nbsp;Ce qu'ils disent de nous&nbsp;
+                Ce qu'ils disent
               </Link>
             </li>
             <li className="nav-item">
               <Link offset={-50} smooth={true} duration={500} className="nav-link" to="contact-us" style={{ fontFamily: "Roboto" }}>
-                &nbsp;Contact&nbsp;
+                Contact
               </Link>
             </li>
           </Nav>
